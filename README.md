@@ -160,18 +160,6 @@ npm run dev
 
 
 
-Open your browser and visit:
-
-
-
-```
-
-http://localhost:3000
-
-```
-
-
-
 \## API Endpoints
 
 
